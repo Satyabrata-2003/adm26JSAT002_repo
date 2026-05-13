@@ -1,0 +1,4 @@
+bank.name= ICICI
+bank.address= Chennai
+bank.Cname= Srinu
+bank.acctype= Saving
